@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1738331043 source:e:\movie_ticket_booking_system\movie_ticket_booking_system\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+
